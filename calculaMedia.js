@@ -8,7 +8,7 @@ const nomeAluno = "Francisvaldo";
 let media = (nota1 + nota2 + nota3 + nota4) / 4
 
 if (media >= 7){
-    console.log ("O aluno Francisvaldo está Aprovado.")
+    console.log ("O aluno " + nomeAluno + " está aprovado" )
 }
 if (media >= 5 && media < 7){
     console.log ("O aluno Francisvaldo está de Se Liga.")
