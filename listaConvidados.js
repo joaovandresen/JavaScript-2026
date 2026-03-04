@@ -22,5 +22,4 @@ console.log("CONVIDADOS CADASTRADOS: ");
 if (listaFinal === ""){
     console.log("Ninguém foi convidado");
 } else {
-    console.log(listaFinal);
-}
+    console.log(listaFinal)7676767676767676767
