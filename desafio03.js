@@ -1,4 +1,4 @@
-let nomeHeroi = "Aragorn";
+let nomeHeroi = "Super Ribas";
 let pontosXP = 750;
 let categoria;
 
